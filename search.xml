@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2017%2F08%2F17%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[「尴尬」]]></title>
+    <url>%2F2017%2F08%2F17%2F%E3%80%8C%E5%B0%B4%E5%B0%AC%E3%80%8D%2F</url>
+    <content type="text"><![CDATA[造个句：比如，你本来没别的意思，却被别人误会成了别的意思，别人错误地理解了并且觉得很尴尬，而你发现了对方的误会，顿时也觉得非常尴尬……]]></content>
+      <tags>
+        <tag>一个想法</tag>
+      </tags>
   </entry>
 </search>
