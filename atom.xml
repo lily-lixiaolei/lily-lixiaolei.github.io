@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>liyli</title>
+  <title>OH!liyli...</title>
   
   <subtitle>Experimenting and recording...</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://liyli.one/"/>
+  <link href="http://ohliyli.com/"/>
   <updated>2017-08-20T20:10:56.000Z</updated>
-  <id>http://liyli.one/</id>
+  <id>http://ohliyli.com/</id>
   
   <author>
     <name>liyli</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>文字与图像</title>
-    <link href="http://liyli.one/2017/08/21/words-and-pictures/"/>
-    <id>http://liyli.one/2017/08/21/words-and-pictures/</id>
+    <link href="http://ohliyli.com/2017/08/21/words-and-pictures/"/>
+    <id>http://ohliyli.com/2017/08/21/words-and-pictures/</id>
     <published>2017-08-20T19:59:54.000Z</published>
     <updated>2017-08-20T20:10:56.000Z</updated>
     
@@ -36,14 +36,14 @@
     </summary>
     
     
-      <category term="one idea" scheme="http://liyli.one/tags/one-idea/"/>
+      <category term="one idea" scheme="http://ohliyli.com/tags/one-idea/"/>
     
   </entry>
   
   <entry>
     <title>你的可筛选样本足够多吗？</title>
-    <link href="http://liyli.one/2017/08/20/sample-screening/"/>
-    <id>http://liyli.one/2017/08/20/sample-screening/</id>
+    <link href="http://ohliyli.com/2017/08/20/sample-screening/"/>
+    <id>http://ohliyli.com/2017/08/20/sample-screening/</id>
     <published>2017-08-19T18:58:00.000Z</published>
     <updated>2017-08-20T01:23:58.000Z</updated>
     
@@ -60,14 +60,14 @@
     </summary>
     
     
-      <category term="one idea" scheme="http://liyli.one/tags/one-idea/"/>
+      <category term="one idea" scheme="http://ohliyli.com/tags/one-idea/"/>
     
   </entry>
   
   <entry>
     <title>「尴尬」</title>
-    <link href="http://liyli.one/2017/08/17/awkward-definition/"/>
-    <id>http://liyli.one/2017/08/17/awkward-definition/</id>
+    <link href="http://ohliyli.com/2017/08/17/awkward-definition/"/>
+    <id>http://ohliyli.com/2017/08/17/awkward-definition/</id>
     <published>2017-08-17T15:25:10.000Z</published>
     <updated>2017-08-20T01:26:32.000Z</updated>
     
@@ -84,7 +84,7 @@
     </summary>
     
     
-      <category term="one idea" scheme="http://liyli.one/tags/one-idea/"/>
+      <category term="one idea" scheme="http://ohliyli.com/tags/one-idea/"/>
     
   </entry>
   
