@@ -3,35 +3,23 @@
 
 
     
+    
+    
   <url>
     <loc>http://ohliyli.com/2017/08/21/words-and-pictures/</loc>
-    <lastmod>2017-08-20T20:10:56.000Z</lastmod>
+    <lastmod>2018-01-05T04:14:39.000Z</lastmod>
     <data>
         <display>
         <title>文字与图像</title>
         <pubTime>2017-08-20T19:59:54.000Z</pubTime>
         
-        <tag>one idea</tag>
+        <tag>Concept</tag>
          
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ohliyli.com/2017/08/17/awkward-definition/</loc>
-    <lastmod>2017-08-20T01:26:32.000Z</lastmod>
-    <data>
-        <display>
-        <title>「尴尬」</title>
-        <pubTime>2017-08-17T15:25:10.000Z</pubTime>
-        
-        <tag>one idea</tag>
-         
-         
-           
+             
+              <breadCrumb title="oneIdea" url="http://ohliyli.com/categories/oneIdea/"/>
+          
         </display>
     </data>
     </url>
@@ -39,16 +27,41 @@
     
   <url>
     <loc>http://ohliyli.com/2017/08/20/sample-screening/</loc>
-    <lastmod>2017-08-20T01:23:58.000Z</lastmod>
+    <lastmod>2018-01-05T04:14:35.000Z</lastmod>
     <data>
         <display>
         <title>你的可筛选样本足够多吗？</title>
         <pubTime>2017-08-19T18:58:00.000Z</pubTime>
         
-        <tag>one idea</tag>
+        <tag>Psychology</tag>
          
          
            
+             
+              <breadCrumb title="oneIdea" url="http://ohliyli.com/categories/oneIdea/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ohliyli.com/2017/08/17/awkward-definition/</loc>
+    <lastmod>2018-01-05T04:14:30.000Z</lastmod>
+    <data>
+        <display>
+        <title>「尴尬」</title>
+        <pubTime>2017-08-17T15:25:10.000Z</pubTime>
+        
+        <tag>Relationships</tag>
+         
+        <tag>Psychology</tag>
+         
+         
+           
+             
+              <breadCrumb title="oneIdea" url="http://ohliyli.com/categories/oneIdea/"/>
+          
         </display>
     </data>
     </url>
