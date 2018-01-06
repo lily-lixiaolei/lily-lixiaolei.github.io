@@ -1030,12 +1030,12 @@ a.article-title:hover {
 .archives-tags-wrap blockquote {
   padding: 1em;
   margin: 1em 0 0 0;
-  font-size: 1.2em;
+  font-size: 1em;
   font-weight: bold;
   color: #333;
   text-align: center;
-  border-left: 0px solid #1fa0ae;
-  background: rgba(208,211,248,0.15);
+  border: 0.1em solid #333;
+  background: rgba(0,0,0,0);
 }
 .archives-tags-wrap blockquote a {
   color: #333;
@@ -1063,8 +1063,7 @@ a.article-title:hover {
   line-height: 1.7em;
   color: #1fa0ae;
   text-align: left;
-  border-left: 0px solid #1fa0ae;
-  background: rgba(208,211,248,0.15);
+  background: rgba(255,255,255,0);
 }
 .archives-category-wrap blockquote a {
   color: #333;
